@@ -167,14 +167,3 @@ button[type="submit"] {
 button[type="submit"]:hover {
 	background-color: #677bc4;
 }
-.corner-images {
-    position: absolute;
-    top: 0;
-    right: 0;
-}
-
-.corner-image {
-    width: 34px;
-    height: auto;
-    margin-top: 5px; /* Adjust this value to position the images vertically */
-}
